@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <!--Common MSG-->
+    <string name="msg_no_internet">No Internet</string>
+    <string name="msg_check_your_internet_connection">Please your Internet Connection</string>
+    <string name="ok">ok</string>
+
+    <!--Login-->
+    <string name="login">Login</string>
+
+    <!-- Location -->
+    <string name="set_selection">   Select Location</string>
+
+    <!--Home-->
+    <string name="double_click_to_exit">Please Click Back To Exit!</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="categories">Categories</string>
+
+
+    <!--Products By Category-->
+    <string name="add_to_cart">Add To Bag</string>
+    <!-- CART -->
+    <string name="product_in_cart">product in cart</string>
+    <string name="taka_sign">৳</string>
+    <string name="new_arrival">New Arrival</string>
+    <string name="colon">:    </string>
+    <string name="order_id">Order Id</string>
+    <string name="outlet">Outlet</string>
+    <string name="total_price">Total Price</string>
+    <string name="order_status">Order Status</string>
+    <string name="pay_status">Pay Status</string>
+    <string name="pay_method">Pay Method</string>
+    <string name="dated">Dated</string>
+    <string name="delivery_mobile">Delivery Mobile</string>
+
+    <!-- CHECKOUT -->
+    <string name="create_new_address">Create new address</string>
+    <string name="select_address">Select address</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="pick_from_store">Pick From Store</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time_slot">Select time slot</string>
+    <string name="select_delivery_zone">Select delivery zone</string>
+
+</resources>
+
+
